@@ -9,3 +9,14 @@
 ### function multiply(a, b) {
 ###   return(a * b)
 ### }
+
+## Work expirience 
+### I didn`t have any expirience  /* Правильно написал слово опыт??? */
+
+## Education
+### I studied at the Mozyr University named after and p Shamyakin in the specialty of mathematician-programmer
+
+/* Вставить фото с разных курсов, практик и прочего */
+
+## English
+### My level of English language A1
