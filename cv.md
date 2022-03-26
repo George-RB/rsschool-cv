@@ -1,5 +1,5 @@
 # **George Kartavenko**
-![photo](/img/photo_resume.jpg "Photo") 
+![photo](/img/Photo_resume.jpg "photo")
 ## Phone number: 
 ### *+375 (29) 726-54-47*
 *****
