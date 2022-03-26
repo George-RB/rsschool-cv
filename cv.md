@@ -1,4 +1,5 @@
 # **George Kartavenko**
+![photo](/img/photo_resume.jpg "Photo") 
 ## Phone number: 
 ### *+375 (29) 726-54-47*
 *****
@@ -6,9 +7,9 @@
 ### *SocialImp@mail.ru*
 *******
 ## Discord:
-### *George-RB*
+### *@George-RB*
 *********
-## My quotes
+## My goals 
 ### *I want to start work at EPAM company as a programmist.*
 *****
 ## Skills
@@ -26,25 +27,28 @@
 ### *I studied at the Mozyr University named after I.P.Shamyakin in the specialty of mathematician-programmer*
 ******
 
-![certificate](/img/certificate_Excel.jpg "Сертификат")
+![certificate](/img/certificate_Excel.jpg "certificate")
 ******
-![certificate](/img/certificate_Excel2007.jpg "Сертификат")
+![certificate](/img/certificate_Excel2007.jpg "certificate")
 ******
-![certificate](/img/certificate_HTML.jpg "Сертификат")
+![certificate](/img/certificate_HTML.jpg "certificate")
 ******
-![certificate](/img/certificate_Internet.jpg "Сертификат")
+![certificate](/img/certificate_Internet.jpg "certificate")
 ******
-![certificate](/img/certificate_Net.jpg "Сертификат")
+![certificate](/img/certificate_Net.jpg "certificate")
 ******
-![certificate](/img/certificate_Server.jpg "Сертификат")
+![certificate](/img/certificate_Server.jpg "certificate")
 ******
-![certificate](/img/certificate_XP.jpg "Сертификат")
+![certificate](/img/certificate_XP.jpg "certificate")
 ******
-![certificate](/img/certificate_WindowsXP.jpg "Сертификат")
+![certificate](/img/certificate_WindowsXP.jpg "certificate")
 ******
-![certificate](/img/certificate_Word.jpg "Сертификат")
+![certificate](/img/certificate_Word.jpg "certificate")
 *******
 
 ## English
 ### *My level of English is A1*
+******
+## Projects
+### *This CV is my first project.*
 ******
