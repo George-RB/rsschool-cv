@@ -1,1 +1,3 @@
-# rsschool-cv
+https://George-RB.github.io/rsschool-cv/cv
+
+
