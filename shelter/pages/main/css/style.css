@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+
+}
+.div {
+    font-size: 32px;
+    
+}
+.header {
+    
+    width: 1280px;
+    height: 908px;
+    background-image: url(../img/start-screen-background.jpg);
+
+    
+}
+.header_menu {
+    position: relative;
+    top: 70px;
+}
