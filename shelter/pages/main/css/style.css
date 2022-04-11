@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    /* Центирование блока*/
+    margin-left: auto;    
+    margin-right: auto;
+
+    position: center;
+
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 300;
+    width: 1280px;
+    height: 908px;
+    background-image: url(../img/start-screen-background.jpg);
+
+    
+}
+.header_menu {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+
+    width: 443px;
+    height: 23px;
+
+    position: absolute;
+    top: 76px;
+    right: 40px;
+    /* left: calc(50% - 1200px/2); */
+    justify-content: space-between;
+    color: #fff;
+}
+
+.cozy {
+     /* width: 184px;
+    height: 60px; */
+    left: 40px;
+    top: 60px;
+    position: absolute;
+}
+
+.cozy_first {
+    top: calc(50% - 35px/2 - 12.5px);
+
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 110%;
+
+    /* or 35px */
+    /* display: flex;
+    align-items: center;*/
+    letter-spacing: 0.06em;
+
+    /* color-primary */
+    color: #F1CDB3;
+}
+.cozy_second {
+    /* Subtitile */
+    top: calc(50% - 15px/2 + 22.5px);
+
+    /* logo_subtitle */
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+
+    /* color-light-xl */
+    color: #FFFFFF;
+}
