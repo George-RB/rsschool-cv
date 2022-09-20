@@ -49,6 +49,6 @@
 ## English
 ### *My level of English is A1*
 ******
-## Project
+## Projects
 ### *This CV is my project.*
 ******
