@@ -10,7 +10,7 @@
 ### *@George-RB*
 *********
 ## My goals 
-### *I want to start work at EPAM company as a programmist.*
+### *I want to start work at EPAM company as a web-programmist.*
 *****
 ## Skills
 ### *I am learning Javascript, CSS, HTML*
