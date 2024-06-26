@@ -31,7 +31,7 @@
 
 ## Skills
 
-### _Programming Languages: JavaScript, CSS, HTML_
+### _Programming Languages: JavaScript, CSS, HTML, SASS_
 
 ### _Version Control: Git_
 
