@@ -71,7 +71,7 @@ function multiply(a, b) {
 
 ## English
 
-### _My level of English is A1, and I am actively working on improving my proficiency through courses and self-study._
+### _My level of English is A2, and I am actively working on improving my proficiency through courses and self-study._
 
 ---
 
