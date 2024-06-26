@@ -1,2 +1,1 @@
-# rsschool-cv
-The main repository for RSSchool
+https://github.com/George-RB/rsschool-cv/blob/gh-pages/CV.md
