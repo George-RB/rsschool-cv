@@ -1,7 +1,7 @@
 ---
 
 # **George Kartavenko**
-![photo](/img/Photo_resume.jpg "photo")
+![photo](./myPhoto.jpg "photo")
 
 ---
 
