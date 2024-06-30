@@ -1,5 +1,3 @@
----
-
 # **George Kartavenko**
 
 ---
