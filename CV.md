@@ -80,7 +80,7 @@ function multiply(a, b) {
 
 - **Description:** Developed this CV to showcase my skills and knowledge.
 - **Technologies:** Markdown, HTML, CSS
-- **GitHub Link:** [CV Project](https://github.com/George-RB/rsschool-cv/blob/gh-pages/CV.md)
+- **GitHub Link:** [CV Project](https://github.com/George-RB/rsschool-cv/blob/gh-pages/cv.md)
 
 ---
 
