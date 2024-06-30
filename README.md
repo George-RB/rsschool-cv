@@ -1,1 +1,1 @@
-https://George-RB.github.io
+https://George-RB.github.io/rsschool-cv/cv
