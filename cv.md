@@ -1,4 +1,10 @@
 ---
+title: "My CV"
+layout: default
+---
+
+
+---
 
 # **George Kartavenko**
 ![photo](./myPhoto.jpg "photo")
