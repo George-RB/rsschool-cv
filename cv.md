@@ -4,7 +4,6 @@ layout: default
 ---
 
 
----
 
 # **George Kartavenko**
 ![photo](./myPhoto.jpg "photo")
