@@ -1,0 +1,5 @@
+title: "My CV"
+description: "This is my CV"
+baseurl: "" # Это необходимо оставить пустым
+url: "https://George-RB.github.io" # Замените на ваше имя пользователя GitHub
+theme: jekyll-theme-primer
